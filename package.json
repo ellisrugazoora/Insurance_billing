@@ -1,7 +1,7 @@
 {
   "name": "my-app",
   "version": "0.1.0",
-  "homepage": "https://ellisrgrz.github.io/Reactapp",
+  "homepage": "https://ellisrugazoora.github.io/Insurance_billing",
   "private": true,
   "dependencies": {
     "@chakra-ui/react": "^2.5.5",
