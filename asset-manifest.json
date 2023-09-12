@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/Insurance_billing/static/css/main.0ea7cf66.css",
+    "main.js": "/Insurance_billing/static/js/main.b63590c4.js",
+    "static/js/787.28cb0dcd.chunk.js": "/Insurance_billing/static/js/787.28cb0dcd.chunk.js",
+    "static/media/logo.svg": "/Insurance_billing/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/Insurance_billing/index.html",
+    "main.0ea7cf66.css.map": "/Insurance_billing/static/css/main.0ea7cf66.css.map",
+    "main.b63590c4.js.map": "/Insurance_billing/static/js/main.b63590c4.js.map",
+    "787.28cb0dcd.chunk.js.map": "/Insurance_billing/static/js/787.28cb0dcd.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.0ea7cf66.css",
+    "static/js/main.b63590c4.js"
+  ]
+}
